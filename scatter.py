@@ -22,3 +22,4 @@ data = [trace]
 
 plotly.offline.plot(data, filename='basic_scatter.html')
 #离线绘图，图形的文件名是basic_scatter,生成的是一个html文件
+#666
